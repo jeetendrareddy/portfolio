@@ -314,22 +314,6 @@ const competitiveSites = {
       profileLink: "https://www.codechef.com/users/jeethendra",
     },
     {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
       siteName: "Kaggle",
       iconifyClassname: "simple-icons:kaggle",
       style: {
@@ -343,8 +327,8 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Amrita vishwa vidyapeetham",
+      subtitle: "B.Tech. in Computer science Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
       duration: "2016 - Present",
