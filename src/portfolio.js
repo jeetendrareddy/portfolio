@@ -329,7 +329,7 @@ const degrees = {
     {
       title: "Amrita vishwa vidyapeetham",
       subtitle: "B.Tech. in Computer science Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: "amrita.png",
       alt_name: "IIITDM Kurnool",
       duration: "2016 - Present",
       descriptions: [
