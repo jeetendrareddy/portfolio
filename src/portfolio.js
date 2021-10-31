@@ -214,20 +214,21 @@ const experience = {
   title: "Experience",
   subtitle: "Internship",
   description:
-    "Till now i don't have any internship and I'm looking forward to do an internship  ",
+    "Till now i don't have any internship and I'm looking forward to do an   ",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "",
-          company: "",
-          company_url: "",
-          logo_path: "",
-          duration: "",
-          location: "",
-          description: "",
+          title: "Associate AI Engineer",
+          company: "Legato Health Technology",
+          company_url: "https://legatohealthtech.com/",
+          logo_path: "legato_logo.png",
+          duration: "June 2020 - PRESENT",
+          location: "Hyderabad, Telangana",
+          description:
+            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
           color: "#0879bf",
         },
         {
