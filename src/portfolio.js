@@ -182,27 +182,27 @@ const certifications = {
   certifications: [
     {
       title: "Python",
-      subtitle: "- Andrew Ng",
+      subtitle: "- Hacker Rank",
       logo_path: "Python-Logo.jpg",
       certificate_link: "https://www.hackerrank.com/certificates/4fd5fb4c9ce2",
       alt_name: "Hacker Rank",
       color_code: "#8C151599",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "Python Basics",
+      subtitle: "- Coursera",
+      logo_path: "coursera.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://www.coursera.org/account/accomplishments/certificate/JUXCUBYBX7BT",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      title: "Python data structures",
+      subtitle: "- Coursera",
+      logo_path: "coursera.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://www.coursera.org/account/accomplishments/certificate/7AXM3P7T5RGR",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
