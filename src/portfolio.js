@@ -244,21 +244,21 @@ const contactPageData = {
   },
   blogSection: {
     title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+    subtitle: "I haven't written ant blogs till now",
     link: "https://ashutoshhathidara.wordpress.com",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "8-506, Main Bazar, T.A.-Tadapatri, Dist.-Anantapur, Andhra Pradesh - 515411",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link:
+      "https://www.google.com/maps/place/Tadipatri,+Andhra+Pradesh+515411/@14.9113689,77.9556361,13z/data=!3m1!4b1!4m5!3m4!1s0x3bb41cadcd3b8d9f:0xd1bff73d9d4719fc!8m2!3d14.9091024!4d78.0092047",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8320758513",
+    subtitle: "+91 8465819974",
   },
 };
 
