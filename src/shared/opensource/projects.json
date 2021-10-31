@@ -75,34 +75,6 @@
           "iconifyClass": "logos-jupyter"
         }
       ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Pick-Parser",
-      "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
-      "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
-      "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
-      "description": "Survival Game using Unity3D",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
-        }
-      ]
     }
   ]
 }
