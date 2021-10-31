@@ -17,9 +17,9 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
       "name": "truvisory",
-      "createdAt": "2020-06-03T11:53:55Z",
+      "createdAt": "2021-06-03T11:53:55Z",
       "url": "https://github.com/ashutosh1919/truvisory",
-      "description": "This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:",
+      "description": "Machine learning Algoriths",
       "isFork": false,
       "languages": [
         {
@@ -31,9 +31,9 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
       "name": "ml-data-bot",
-      "createdAt": "2020-06-19T14:24:55Z",
+      "createdAt": "2021-06-19T14:24:55Z",
       "url": "https://github.com/ashutosh1919/ml-data-bot",
-      "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
+      "description": "Data analysis with power bi",
       "isFork": false,
       "languages": [
         {
