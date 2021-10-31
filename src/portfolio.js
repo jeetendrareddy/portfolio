@@ -240,7 +240,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle: "I haven't written any blogs till now",
-    link: "",
+    link: "https://github.com/jeetendrareddy",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
