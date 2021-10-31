@@ -168,7 +168,7 @@ const degrees = {
       subtitle: "B.Tech. in Computer science Engineering",
       logo_path: "amrita.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      duration: "2021 - Present",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Machine Learning, Data Science, Cloud Computing .",
@@ -212,9 +212,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Internship",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Till now i don't have any internship and I'm looking forward to do an internship  ",
   header_image_path: "experience.svg",
   sections: [
     {
