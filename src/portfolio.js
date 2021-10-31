@@ -239,8 +239,8 @@ const contactPageData = {
   },
   blogSection: {
     title: "Blogs",
-    subtitle: "I haven't written ant blogs till now",
-    link: "https://ashutoshhathidara.wordpress.com",
+    subtitle: "I haven't written any blogs till now",
+    link: "",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
