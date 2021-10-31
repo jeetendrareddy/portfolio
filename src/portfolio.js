@@ -183,9 +183,9 @@ const certifications = {
     {
       title: "Python",
       subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      logo_path: "Python-Logo.jpg",
       certificate_link: "https://www.hackerrank.com/certificates/4fd5fb4c9ce2",
-      alt_name: "Stanford University",
+      alt_name: "Hacker Rank",
       color_code: "#8C151599",
     },
     {
