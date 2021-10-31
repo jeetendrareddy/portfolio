@@ -227,13 +227,6 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-const publicationsHeader = {
-  title: "Publications",
-  description:
-    "I have worked on and published a few research papers and publications of my own.",
-  avatar_image_path: "projects_image.svg",
-};
-
 // Contact Page
 const contactPageData = {
   contactSection: {
@@ -273,6 +266,5 @@ export {
   certifications,
   experience,
   projectsHeader,
-  publicationsHeader,
   contactPageData,
 };
