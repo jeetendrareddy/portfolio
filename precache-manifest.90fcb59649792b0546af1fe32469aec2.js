@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b46012d6840b55c7b9093e1e8316afa",
+    "revision": "861c6fafe75e93201296eeac43acf1e7",
     "url": "./index.html"
   },
   {
-    "revision": "e7295086abd6b5dd1613",
+    "revision": "18de31264cfa81109010",
     "url": "./static/css/main.fc22aaba.chunk.css"
   },
   {
-    "revision": "75fc0b754bdce4725b2e",
-    "url": "./static/js/2.44c32cc9.chunk.js"
+    "revision": "d0c2c353b2febb8fab31",
+    "url": "./static/js/2.f7764b66.chunk.js"
   },
   {
-    "revision": "e7295086abd6b5dd1613",
-    "url": "./static/js/main.7776b95d.chunk.js"
+    "revision": "18de31264cfa81109010",
+    "url": "./static/js/main.4b041307.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "2f50a52a4182dc9389b5f0c25c102408",
+    "url": "./static/media/Python-Logo.2f50a52a.jpg"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
