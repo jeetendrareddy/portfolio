@@ -229,8 +229,7 @@ const projectsHeader = {
 
 const publicationsHeader = {
   title: "Publications",
-  description:
-    "I have worked on and published a few research papers and publications of my own.",
+  description: "I have't worked any publications till now .",
   avatar_image_path: "projects_image.svg",
 };
 
