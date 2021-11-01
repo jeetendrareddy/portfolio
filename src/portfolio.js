@@ -65,9 +65,9 @@ const skills = {
       title: "Data analyst & ML",
       fileName: "DataScienceImg",
       skills: [
-        "⚡  Looking to secure a SQL Data Analyst position with that will enable the use of exceptional technical and analytical skills.",
+        "⚡ Looking to secure Data Analyst position with that will enable the use of exceptional technical and analytical skills.",
         "⚡ Well-organized and talented data science professional seeking the position of Data Analyst . Adept at collecting, analyzing, and authenticating, and modeling data set to improve business operational productivity. Highly competent in using statistical analysis to conduct market research and pinpoint patterns and trends.",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ I can able deploy basic machine learning algorithms and basic data analytics with power bi",
       ],
       softwareSkills: [
         {
@@ -106,10 +106,10 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Have a basic Experience on working with multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Deploying Machine learning models on cloud to use on mobile devices",
+        "⚡ Have a basic knowledge on cloud platforms like microsoft azure",
       ],
       softwareSkills: [
         {
