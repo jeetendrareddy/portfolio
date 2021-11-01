@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "M.Jeetendra kumar reddy",
+  title: "M.Jeethendra kumar reddy",
   logo_name: "jeethendra reddy",
   nickname: "jeethendra",
   subTitle:
